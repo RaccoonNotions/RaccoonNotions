@@ -2,4 +2,4 @@
 - 👀 I’m interested in Programming
 - 🎒 I'm studying in IT STEP academy
 - 🌱 I’m currently learning C#, .NET, HTML5, CSS3
-- ⚒️ Im going to upload my projects here. 
+
