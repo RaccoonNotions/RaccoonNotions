@@ -1,5 +1,4 @@
 - 👋 Hi, I'm @Javkamkrastavizi
 - 👀 I'm interested in Programming
-- 🎒 I'm studying in IT STEP academy
 - 🌱 I'm currently learning C#, .NET, HTML5, CSS3
 - ⚒️ I'm going to upload My personal projects here.
